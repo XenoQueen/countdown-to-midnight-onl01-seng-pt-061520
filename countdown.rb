@@ -5,5 +5,5 @@ def countdown
     sleep 1
       puts "#{number} SECOND(S)!"
       number -= 1
-    end
+  end
 end
