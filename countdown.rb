@@ -3,5 +3,5 @@
 def countdown
   while number > 0
     sleep 1
-      puts "#{"
+      puts "#{number} SECOND(S)!"
 end
